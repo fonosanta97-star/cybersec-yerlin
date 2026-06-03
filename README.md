@@ -1,5 +1,5 @@
 # cibersec-yerlin
-# 🛡️ Portfolio — yerlin
+# 🛡️ Portfolio — yerlin novas santana
 **Técnico en formación** • Ciberseguridad • Grupo 2026
 
 ---
